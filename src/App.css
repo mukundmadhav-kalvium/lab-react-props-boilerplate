@@ -1,0 +1,15 @@
+/* add your styles here */
+h1{
+    text-align: center;
+}
+
+.grid{
+    width: 95%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2%;
+}
+.image{
+    width: 100%;
+}
